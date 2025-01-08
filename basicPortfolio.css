@@ -1,0 +1,88 @@
+body{
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+header{
+    text-align: center;
+    background-color: mediumpurple;
+    margin-bottom: 50px;
+    padding-bottom: 5px;
+}
+header h1{
+    color:black;
+    padding: 10px;
+}
+header nav ul li{
+    color: black;
+    display: inline;
+    padding: 60px;
+}
+header nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+main img{
+    margin-left: 200px;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
+main #name{
+    padding-top: 100px;
+    padding-bottom:50px;
+    color: white;
+    padding-left: 250px;
+}
+main #about1{
+    padding-top: 200px;
+    color: white;
+    text-align: center;
+}
+main #about2{
+    line-height: 30px;
+    color: white;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+main #portfolio{
+    padding-top: 200px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: white;
+}
+main #projects{
+    text-align: center;
+    color: white;
+    line-height: 30px;
+}
+ main #skills{
+    padding-top: 260px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: white;
+ }
+ main #skills2{
+    text-align: center;
+    color: white;
+    line-height: 30px;
+ }
+ main #contact1{
+    padding-top: 200px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: white;
+ }
+ main #contact2{
+    text-align: center;
+    color: white;
+    line-height: 30px;
+    padding-bottom: 200px;
+ }
+ footer{
+    background-color: mediumpurple;
+    text-align: center;
+    padding: 40px;
+ }
